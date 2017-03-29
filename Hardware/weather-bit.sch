@@ -20002,6 +20002,7 @@ The micro:bit provides 3.3V logic
 <text x="5.08" y="60.96" size="2.54" layer="97" font="vector">Serial Port</text>
 <text x="66.04" y="60.96" size="2.54" layer="97" font="vector">I2C Port </text>
 <wire x1="58.42" y1="68.58" x2="58.42" y2="0" width="0.1524" layer="97" style="longdash"/>
+<text x="167.64" y="10.16" size="1.778" layer="94">Mary West, based on Weather Shield design by Nathan Seidle</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
