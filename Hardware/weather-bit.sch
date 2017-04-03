@@ -19690,14 +19690,15 @@ at all times, this causes quick
 intermitenly from a digital I/O pin. 
 The micro:bit provides 3.3V logic
  hence the logic level conversion to 5V. </text>
-<text x="111.76" y="93.98" size="2.54" layer="97" rot="R90">EXT TEMP</text>
-<text x="162.56" y="88.9" size="2.54" layer="97" rot="R90">EXT SOIL MOIST</text>
+<text x="111.76" y="93.98" size="2.54" layer="97" font="vector" rot="R90">EXT TEMP</text>
+<text x="162.56" y="88.9" size="2.54" layer="97" font="vector" rot="R90">EXT SOIL MOIST</text>
 <wire x1="96.52" y1="68.58" x2="248.92" y2="68.58" width="0.1524" layer="97" style="longdash"/>
 <wire x1="0" y1="134.62" x2="96.52" y2="134.62" width="0.1524" layer="97" style="longdash"/>
 <text x="5.08" y="60.96" size="2.54" layer="97" font="vector">Serial Port</text>
 <text x="66.04" y="60.96" size="2.54" layer="97" font="vector">I2C Port </text>
 <wire x1="58.42" y1="68.58" x2="58.42" y2="0" width="0.1524" layer="97" style="longdash"/>
 <text x="167.64" y="10.16" size="1.778" layer="94">Mary West, based on Weather Shield design by Nathan Seidle</text>
+<text x="241.3" y="7.62" size="1.778" layer="94">v01</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
@@ -20033,12 +20034,14 @@ The micro:bit provides 3.3V logic
 <wire x1="124.46" y1="104.14" x2="127" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="R11" gate="G$1" pin="1"/>
 <wire x1="127" y1="109.22" x2="127" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="127" y1="104.14" x2="127" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="J6" gate="J$1" pin="2"/>
-<wire x1="127" y1="91.44" x2="124.46" y2="91.44" width="0.1524" layer="91"/>
 <junction x="127" y="104.14"/>
-<wire x1="127" y1="104.14" x2="142.24" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="127" y1="104.14" x2="129.54" y2="104.14" width="0.1524" layer="91"/>
 <label x="142.24" y="104.14" size="1.27" layer="95" xref="yes"/>
+<pinref part="J6" gate="J$1" pin="2"/>
+<wire x1="129.54" y1="104.14" x2="142.24" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="91.44" x2="129.54" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="91.44" x2="129.54" y2="104.14" width="0.1524" layer="91"/>
+<junction x="129.54" y="104.14"/>
 </segment>
 </net>
 <net name="SOIL_PWR" class="0">
