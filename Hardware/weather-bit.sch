@@ -19437,7 +19437,6 @@ Commonly found on CAT3 devices and some Microchip programmers.
 <plain>
 <text x="238.76" y="7.62" size="2.54" layer="94">v01</text>
 <text x="5.08" y="175.26" size="5.08" layer="97">CONNECTOR</text>
-<text x="167.64" y="10.16" size="2.54" layer="94" font="vector">Mary West </text>
 <text x="149.86" y="93.98" size="1.778" layer="97">20
 19
 16
@@ -19498,6 +19497,7 @@ GPIO/AIN</text>
 <text x="175.26" y="99.568" size="1.27" layer="97">RAIN</text>
 <text x="175.26" y="134.62" size="1.27" layer="97">TXO</text>
 <text x="175.26" y="132.08" size="1.27" layer="97">RXI</text>
+<text x="157.48" y="7.62" size="1.778" layer="94">Mary West, Based on the Weather Shield Design by Nathan Seidle</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
