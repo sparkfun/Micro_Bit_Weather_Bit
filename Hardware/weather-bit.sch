@@ -20014,7 +20014,6 @@ For reference (or to suit your programming needs) check out these designs:
 <part name="J6" library="SparkFun-Connectors" deviceset="CONN_03" device=""/>
 <part name="J7" library="SparkFun-Connectors" deviceset="CONN_03" device=""/>
 <part name="R11" library="SparkFun-Resistors" deviceset="4.7KOHM" device="-0603-1/10W-1%" value="4.7k"/>
-<part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".2_INCH" value="SFE_LOGO_NAME_FLAME.2_INCH"/>
 <part name="GND15" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND16" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="H3" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
@@ -20373,7 +20372,6 @@ The micro:bit provides 3.3V logic
 <attribute name="NAME" x="131.064" y="118.364" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="131.064" y="113.792" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="LOGO1" gate="G$1" x="154.94" y="35.56"/>
 <instance part="GND15" gate="1" x="134.62" y="83.82"/>
 <instance part="GND16" gate="1" x="187.96" y="83.82"/>
 <instance part="SUPPLY13" gate="G$1" x="127" y="121.92"/>
