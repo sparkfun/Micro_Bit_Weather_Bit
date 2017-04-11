@@ -20289,9 +20289,7 @@ GPIO/AIN</text>
 at all times, this causes quick
  corrosion of the metal on the sensor.
  The power should be provided 
-intermitenly from a digital I/O pin. 
-The micro:bit provides 3.3V logic
- hence the logic level conversion to 5V. </text>
+intermitenly from a digital I/O pin. </text>
 <text x="111.76" y="93.98" size="2.54" layer="97" font="vector" rot="R90">EXT TEMP</text>
 <text x="162.56" y="88.9" size="2.54" layer="97" font="vector" rot="R90">EXT SOIL MOIST</text>
 <wire x1="96.52" y1="68.58" x2="248.92" y2="68.58" width="0.1524" layer="97" style="longdash"/>

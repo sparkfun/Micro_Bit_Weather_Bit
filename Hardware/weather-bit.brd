@@ -156,7 +156,7 @@
 <plain>
 <text x="31.75" y="-11.43" size="1.778" layer="51" font="vector" ratio="15">Mary West, based on Weather Shield Design by Nathan Seidle </text>
 <text x="65.56375" y="50.00625" size="1.778" layer="16" font="vector" ratio="15" rot="SMR270" align="center">v01</text>
-<text x="33.49625" y="27.6225" size="3.81" layer="22" ratio="18" rot="MR0" align="center">weather:bit</text>
+<text x="33.49625" y="27.6225" size="3.81" layer="22" font="vector" ratio="18" rot="MR0" align="center">weather:bit</text>
 <text x="30.63875" y="90.4875" size="1.778" layer="47" font="vector" ratio="15">* All dimensions
   are in inches</text>
 <wire x1="2.54" y1="67.31" x2="66.04" y2="67.31" width="0.2032" layer="20"/>
@@ -165,26 +165,26 @@
 <wire x1="2.54" y1="67.31" x2="0" y2="64.77" width="0.2032" layer="20" curve="90"/>
 <dimension x1="68.58" y1="2.54" x2="68.58" y2="67.31" x3="85.09" y3="34.925" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="68.58" y1="67.31" x2="0" y2="67.31" x3="34.29" y3="81.5975" textsize="1.778" layer="47" unit="inch"/>
-<text x="65.0875" y="38.1" size="0.8128" layer="21" font="vector" ratio="15" rot="R270">GND</text>
-<text x="65.0875" y="35.40125" size="0.8128" layer="21" font="vector" ratio="15" rot="R270">VCC</text>
-<text x="65.0875" y="32.86125" size="0.8128" layer="21" font="vector" ratio="15" rot="R270">SDA</text>
-<text x="65.0875" y="30.32125" size="0.8128" layer="21" font="vector" ratio="15" rot="R270">SCL</text>
-<text x="0.15875" y="39.6875" size="1.778" layer="21" ratio="15">SERIAL
+<text x="65.0722625" y="37.98061875" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">GND</text>
+<text x="65.0875" y="35.340290625" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">VCC</text>
+<text x="65.0875" y="32.701228125" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">SDA</text>
+<text x="65.08241875" y="30.00375" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">SCL</text>
+<text x="0.15875" y="39.6875" size="1.778" layer="21" font="vector" ratio="15">SERIAL
 PORT</text>
-<text x="62.07125" y="39.37" size="1.778" layer="21" ratio="15">I2C 
+<text x="62.07125" y="39.37" size="1.778" layer="21" font="vector" ratio="15">I2C 
 PORT</text>
-<text x="41.91" y="26.3525" size="2.032" layer="21" ratio="15" align="top-center">SOIL
+<text x="41.91" y="26.3525" size="2.032" layer="21" font="vector" ratio="15" align="top-center">SOIL
 TEMP</text>
-<text x="26.67" y="26.51125" size="2.032" layer="21" ratio="15" align="top-center">SOIL
+<text x="26.67" y="26.51125" size="2.032" layer="21" font="vector" ratio="15" align="top-center">SOIL
 MOISTURE</text>
 <wire x1="44.92625" y1="36.195" x2="44.92625" y2="31.115" width="0.254" layer="21"/>
 <wire x1="44.92625" y1="31.115" x2="52.54625" y2="31.115" width="0.254" layer="21"/>
 <wire x1="52.54625" y1="31.115" x2="52.54625" y2="36.195" width="0.254" layer="21"/>
 <wire x1="52.54625" y1="36.195" x2="44.92625" y2="36.195" width="0.254" layer="21"/>
-<text x="45.56125" y="36.67125" size="1.016" layer="21" ratio="15">HUMIDITY</text>
-<text x="52.07" y="30.7975" size="1.016" layer="21" ratio="15" rot="R180">PRESSURE</text>
-<text x="44.29125" y="31.75" size="1.016" layer="21" ratio="15" rot="R90">TEMP</text>
-<text x="53.148228125" y="34.278571875" size="1.016" layer="21" ratio="15" rot="SR270">ALT</text>
+<text x="45.56125" y="36.67125" size="1.016" layer="21" font="vector" ratio="15">HUMIDITY</text>
+<text x="52.07" y="30.7975" size="1.016" layer="21" font="vector" ratio="15" rot="R180">PRESSURE</text>
+<text x="44.29125" y="31.75" size="1.016" layer="21" font="vector" ratio="15" rot="R90">TEMP</text>
+<text x="53.148228125" y="34.278571875" size="1.016" layer="21" font="vector" ratio="15" rot="SR270">ALT</text>
 <wire x1="20.47875" y1="20.955" x2="31.115" y2="20.955" width="0.254" layer="21"/>
 <wire x1="31.115" y1="20.955" x2="33.02" y2="19.05" width="0.254" layer="21" curve="-90"/>
 <wire x1="33.02" y1="12.54125" x2="33.02" y2="5.08" width="0.254" layer="21"/>
@@ -195,24 +195,24 @@ MOISTURE</text>
 <wire x1="34.925" y1="12.54125" x2="34.925" y2="5.08" width="0.254" layer="21"/>
 <wire x1="34.925" y1="5.08" x2="36.195" y2="3.81" width="0.254" layer="21" curve="90"/>
 <wire x1="36.195" y1="3.81" x2="38.1" y2="3.81" width="0.254" layer="21"/>
-<text x="6.82625" y="23.01875" size="2.032" layer="21" ratio="15">WIND</text>
-<text x="54.76875" y="22.86" size="2.032" layer="21" ratio="15">RAIN</text>
-<text x="8.255" y="32.7025" size="4.064" layer="21" ratio="20">weather:bit</text>
-<text x="24.4475" y="8.09625" size="1.27" layer="21" ratio="15" rot="R180">VCC</text>
-<text x="28.575" y="8.09625" size="1.27" layer="21" ratio="15" rot="R180">GND</text>
-<text x="32.22625" y="8.09625" size="1.27" layer="21" ratio="15" rot="R180">SIG</text>
-<text x="39.37" y="7.9375" size="1.27" layer="21" ratio="15" rot="R180">VCC</text>
-<text x="43.18" y="7.9375" size="1.27" layer="21" ratio="15" rot="R180">SIG</text>
-<text x="47.625" y="7.9375" size="1.27" layer="21" ratio="15" rot="R180">GND</text>
+<text x="6.82625" y="23.01875" size="2.032" layer="21" font="vector" ratio="15">WIND</text>
+<text x="54.76875" y="22.86" size="2.032" layer="21" font="vector" ratio="15">RAIN</text>
+<text x="10.304778125" y="32.17418125" size="3.048" layer="21" font="vector" ratio="20">weather:bit</text>
+<text x="24.4475" y="8.09625" size="1.27" layer="21" font="vector" ratio="15" rot="R180">VCC</text>
+<text x="28.575" y="8.09625" size="1.27" layer="21" font="vector" ratio="15" rot="R180">GND</text>
+<text x="32.22625" y="8.09625" size="1.27" layer="21" font="vector" ratio="15" rot="R180">SIG</text>
+<text x="39.37" y="7.9375" size="1.27" layer="21" font="vector" ratio="15" rot="R180">VCC</text>
+<text x="43.18" y="7.9375" size="1.27" layer="21" font="vector" ratio="15" rot="R180">SIG</text>
+<text x="47.625" y="7.9375" size="1.27" layer="21" font="vector" ratio="15" rot="R180">GND</text>
 <wire x1="13.97" y1="22.5425" x2="6.19125" y2="22.5425" width="0.254" layer="21"/>
 <wire x1="6.19125" y1="22.5425" x2="4.60375" y2="20.955" width="0.254" layer="21" curve="90"/>
 <wire x1="4.60375" y1="20.955" x2="4.60375" y2="0" width="0.254" layer="21"/>
 <wire x1="53.975" y1="22.5425" x2="62.5475" y2="22.5425" width="0.254" layer="21"/>
 <wire x1="62.5475" y1="22.5425" x2="63.97625" y2="21.11375" width="0.254" layer="21" curve="-90"/>
 <wire x1="63.97625" y1="21.11375" x2="63.97625" y2="0" width="0.254" layer="21"/>
-<text x="31.59125" y="6.50875" size="1.016" layer="21" ratio="15" rot="R180">P0</text>
-<text x="42.8625" y="6.50875" size="1.016" layer="21" ratio="15" rot="R180">P12</text>
-<text x="24.04871875" y="6.48208125" size="1.016" layer="21" ratio="15" rot="R180">P16</text>
+<text x="31.59125" y="6.50875" size="1.016" layer="21" font="vector" ratio="15" rot="R180">P0</text>
+<text x="42.8625" y="6.50875" size="1.016" layer="21" font="vector" ratio="15" rot="R180">P12</text>
+<text x="24.04871875" y="6.48208125" size="1.016" layer="21" font="vector" ratio="15" rot="R180">P16</text>
 <wire x1="33.02" y1="19.05" x2="33.02" y2="12.54125" width="0.254" layer="21"/>
 <wire x1="33.02" y1="12.54125" x2="32.22625" y2="11.7475" width="0.254" layer="21" curve="-90"/>
 <wire x1="32.22625" y1="11.7475" x2="31.75" y2="11.7475" width="0.254" layer="21"/>
@@ -231,7 +231,7 @@ MOISTURE</text>
 <wire x1="66.04" y1="38.1" x2="66.04" y2="27.94" width="0.2032" layer="21"/>
 <wire x1="66.04" y1="27.94" x2="68.58" y2="27.94" width="0.2032" layer="21"/>
 <wire x1="68.58" y1="38.1" x2="68.58" y2="27.94" width="0.2032" layer="21"/>
-<text x="45.72" y="14.605" size="1.778" layer="22" rot="MR0">sparkfun.com/microbit</text>
+<text x="49.022" y="14.605" size="1.778" layer="22" font="vector" ratio="15" rot="MR0">sparkfun.com/microbit</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -2232,7 +2232,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CONN-13452" x="34.29" y="53.49875" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J1" library="SparkFun-Connectors" package="6_PIN_SERIAL_TARGET_SIDE_W_SILK" value="" x="1.27" y="29.21" rot="R270"/>
-<element name="U$1" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="37.465" y="32.385"/>
+<element name="U$1" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="37.084" y="31.94811875"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -2295,6 +2295,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="J1" pad="P$6"/>
 <contactref element="J1" pad="P$5"/>
 <via x="60.48375" y="40.64" extent="1-16" drill="0.635"/>
+<via x="44.182028125" y="43.235878125" extent="1-16" drill="0.635"/>
 </signal>
 <signal name="3.3V">
 <contactref element="U1" pad="8"/>
@@ -2392,19 +2393,19 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="30.1625" y1="18.0975" x2="30.7975" y2="18.7325" width="0.254" layer="1"/>
 <wire x1="29.21" y1="18.0975" x2="30.1625" y2="18.0975" width="0.254" layer="1"/>
 <wire x1="29.21" y1="18.0975" x2="29.21" y2="18.2" width="0.254" layer="1"/>
-<via x="38.1" y="37.465" extent="1-16" drill="0.635"/>
+<via x="39.4868375" y="38.90771875" extent="1-16" drill="0.635"/>
 <via x="35.2425" y="29.845" extent="1-16" drill="0.635"/>
 <via x="35.2425" y="25.7175" extent="1-16" drill="0.635"/>
 <via x="30.7975" y="18.7325" extent="1-16" drill="0.635"/>
 <wire x1="48.41125" y1="34.68" x2="48.41125" y2="35.40875" width="0.254" layer="1"/>
 <wire x1="48.41125" y1="35.40875" x2="45.72" y2="38.1" width="0.254" layer="1"/>
-<wire x1="45.72" y1="38.1" x2="38.735" y2="38.1" width="0.254" layer="1"/>
-<wire x1="35.2425" y1="29.845" x2="35.2425" y2="34.6075" width="0.254" layer="16"/>
+<wire x1="35.2425" y1="29.845" x2="35.2425" y2="34.66338125" width="0.254" layer="16"/>
 <wire x1="35.2425" y1="25.7175" x2="35.2425" y2="21.2725" width="0.254" layer="16"/>
 <wire x1="35.2425" y1="21.2725" x2="32.7025" y2="18.7325" width="0.254" layer="16"/>
 <wire x1="32.7025" y1="18.7325" x2="30.7975" y2="18.7325" width="0.254" layer="16"/>
-<wire x1="35.2425" y1="34.6075" x2="38.1" y2="37.465" width="0.254" layer="16"/>
-<wire x1="38.735" y1="38.1" x2="38.1" y2="37.465" width="0.254" layer="1"/>
+<wire x1="45.72" y1="38.1" x2="40.29455625" y2="38.1" width="0.254" layer="1"/>
+<wire x1="40.29455625" y1="38.1" x2="39.4868375" y2="38.90771875" width="0.254" layer="1"/>
+<wire x1="35.2425" y1="34.66338125" x2="39.4868375" y2="38.90771875" width="0.254" layer="16"/>
 </signal>
 <signal name="SDA">
 <contactref element="U1" pad="3"/>
@@ -2420,14 +2421,15 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="U1" pad="4"/>
 <contactref element="J9" pad="1"/>
 <contactref element="U2" pad="A8"/>
-<wire x1="52.705" y1="44.7675" x2="49.71125" y2="41.77375" width="0.254" layer="1"/>
-<wire x1="49.71125" y1="34.68" x2="49.71125" y2="41.77375" width="0.254" layer="1"/>
 <wire x1="50.165" y1="43.18" x2="50.165" y2="47.77875" width="0.254" layer="16"/>
 <wire x1="50.165" y1="43.18" x2="64.135" y2="29.21" width="0.254" layer="16"/>
 <wire x1="64.135" y1="29.21" x2="67.31" y2="29.21" width="0.254" layer="16"/>
 <wire x1="50.165" y1="47.77875" x2="51.12885" y2="47.77875" width="0.254" layer="1"/>
-<wire x1="51.12885" y1="47.77875" x2="52.705" y2="46.2026" width="0.254" layer="1"/>
-<wire x1="52.705" y1="44.7675" x2="52.705" y2="46.2026" width="0.254" layer="1"/>
+<wire x1="51.12885" y1="47.77875" x2="52.73801875" y2="46.16958125" width="0.254" layer="1"/>
+<wire x1="49.717959375" y1="34.686709375" x2="49.71125" y2="34.68" width="0.254" layer="1"/>
+<wire x1="49.717959375" y1="34.686709375" x2="49.717959375" y2="41.86428125" width="0.254" layer="1"/>
+<wire x1="49.717959375" y1="41.86428125" x2="52.73801875" y2="44.884340625" width="0.254" layer="1"/>
+<wire x1="52.73801875" y1="44.884340625" x2="52.73801875" y2="46.16958125" width="0.254" layer="1"/>
 </signal>
 <signal name="N$5">
 <contactref element="J2" pad="3"/>
