@@ -6,17 +6,17 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.0001" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.0001" altunitdist="inch" altunit="inch"/>
+<grid distance="50" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="0.001" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
@@ -4515,8 +4515,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CONN-13452" x="34.29" y="53.49875" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J1" library="SparkFun-Connectors" package="6_PIN_SERIAL_TARGET_SIDE_W_SILK" value="" x="1.27" y="29.21" rot="R270"/>
-<element name="U$1" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="10.213340625" y="32.2199"/>
-<element name="U$2" library="Micro_Bit_LOGOS" package="LOGO-WEATHERBIT" value="" x="14.47291875" y="32.1665625"/>
+<element name="U$1" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="37.762409375" y="33.012659375"/>
+<element name="U$2" library="Micro_Bit_LOGOS" package="LOGO-WEATHERBIT" value="" x="9.907446875" y="33.02"/>
 <element name="U$3" library="Micro_Bit_LOGOS" package="LOGO-WEATHERBIT" value="" x="47.4218" y="25.298396875" rot="MR0"/>
 </elements>
 <signals>
