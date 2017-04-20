@@ -168,9 +168,9 @@
 <text x="65.0875" y="35.340290625" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">VCC</text>
 <text x="65.0875" y="32.701228125" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">SDA</text>
 <text x="65.08241875" y="30.00375" size="0.8128" layer="21" font="vector" ratio="15" rot="SR270">SCL</text>
-<text x="0.15875" y="39.6875" size="1.778" layer="21" font="vector" ratio="15">SERIAL
+<text x="0.402765625" y="39.40965" size="1.778" layer="21" font="vector" ratio="15">SERIAL
 PORT</text>
-<text x="62.07125" y="39.37" size="1.778" layer="21" font="vector" ratio="15">I2C 
+<text x="62.007828125" y="39.382675" size="1.778" layer="21" font="vector" ratio="15">I2C 
 PORT</text>
 <text x="41.91" y="26.3525" size="2.032" layer="21" font="vector" ratio="15" align="top-center">SOIL
 TEMP</text>
