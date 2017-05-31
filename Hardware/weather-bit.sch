@@ -20297,6 +20297,7 @@ intermitenly from a digital I/O pin. </text>
 <wire x1="58.42" y1="68.58" x2="58.42" y2="0" width="0.1524" layer="97" style="longdash"/>
 <text x="167.64" y="10.16" size="1.778" layer="94">Mary West, based on Weather Shield design by Nathan Seidle</text>
 <text x="241.3" y="7.62" size="1.778" layer="94">v10</text>
+<text x="10.16" y="20.32" size="1.778" layer="97">Intended to mate with OpenLog</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
