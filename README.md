@@ -15,7 +15,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/pxt-weather-bit)** - PXT gamer:bit firmware
+* **[Library](https://github.com/sparkfun/pxt-weather-bit)** - PXT weather:bit firmware
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/microclimate-kit-experiment-guide/about-the-weatherbit)** - Basic hookup guide.
 
 License Information
