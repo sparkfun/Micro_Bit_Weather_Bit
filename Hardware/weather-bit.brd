@@ -10107,6 +10107,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="J10" library="SparkFun-Connectors" package="6_PIN_SERIAL_TARGET_SIDE_VERT_SMT" value="SMD" x="3.0734" y="40.4622" smashed="yes" rot="R270">
 <attribute name="NAME" x="-0.6096" y="40.9702" size="0.6096" layer="25" font="vector" ratio="20" rot="R270"/>
+<attribute name="PROD_ID" value="CONN-10203" x="3.0734" y="40.4622" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="-1.4986" y="40.9702" size="0.6096" layer="27" font="vector" ratio="20" rot="R270"/>
 </element>
 <element name="U$8" library="buzzard_labels" package="I2C1" value="" x="62.5094" y="41.3004" smashed="yes"/>

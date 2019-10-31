@@ -21099,7 +21099,9 @@ For reference (or to suit your programming needs) check out these designs:
 <connect gate="G$1" pin="VCC" pad="4 4-2"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="CONN-10203" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
