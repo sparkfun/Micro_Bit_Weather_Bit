@@ -19195,6 +19195,62 @@ Package for devices meant to mate to an FTDI connector.
 <vertex x="26.45" y="1.259"/>
 </polygon>
 </package>
+<package name="6_PIN_SERIAL_TARGET_SIDE_VERT_SMT">
+<description>&lt;h3&gt; 6 Pin SMD Female Header - Combined Footprint&lt;/h3&gt;
+
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”http://cdn.sparkfun.com/datasheets/Prototyping/femaleSMDheader.pdf”&gt;Datasheet referenced for footprint:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_06&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="12.7" y1="1.27" x2="12.7" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="10.16" y1="1.27" x2="10.16" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="7.62" y1="1.27" x2="7.62" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="5.08" y1="1.27" x2="5.08" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="2.54" y1="1.27" x2="2.54" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="0" y1="1.27" x2="0" y2="-1.27" width="0.4064" layer="1"/>
+<wire x1="-1.37" y1="-1.25" x2="-1.37" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="14.07" y1="1.25" x2="14.07" y2="-1.25" width="0.2032" layer="21"/>
+<wire x1="-0.73" y1="-1.25" x2="-1.37" y2="-1.25" width="0.2032" layer="21"/>
+<wire x1="14.07" y1="-1.25" x2="13.4" y2="-1.25" width="0.2032" layer="21"/>
+<wire x1="13.4" y1="1.25" x2="14.07" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="-1.37" y1="1.25" x2="-0.73" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="10.949" y1="1.25" x2="11.911" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="10.949" y1="-1.29" x2="11.911" y2="-1.29" width="0.2032" layer="21"/>
+<wire x1="8.409" y1="1.25" x2="9.371" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="8.409" y1="-1.29" x2="9.371" y2="-1.29" width="0.2032" layer="21"/>
+<wire x1="5.869" y1="-1.29" x2="6.831" y2="-1.29" width="0.2032" layer="21"/>
+<wire x1="5.869" y1="1.25" x2="6.831" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="3.329" y1="-1.29" x2="4.291" y2="-1.29" width="0.2032" layer="21"/>
+<wire x1="3.329" y1="1.25" x2="4.291" y2="1.25" width="0.2032" layer="21"/>
+<wire x1="0.789" y1="-1.29" x2="1.751" y2="-1.29" width="0.2032" layer="21"/>
+<wire x1="0.789" y1="1.25" x2="1.751" y2="1.25" width="0.2032" layer="21"/>
+<smd name="5" x="10.16" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="3" x="5.08" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="1" x="0" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="6" x="12.7" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="4" x="7.62" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="2" x="2.54" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="1-2" x="0" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="2-2" x="2.54" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="3-2" x="5.08" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="4-2" x="7.62" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="5-2" x="10.16" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="6-2" x="12.7" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<text x="-0.508" y="-3.683" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-0.508" y="-4.572" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+<text x="-1.651" y="-1.651" size="1.27" layer="21" font="vector" ratio="15" rot="R90">GRN</text>
+<text x="15.621" y="-1.651" size="1.27" layer="21" font="vector" ratio="15" rot="R90">BLK</text>
+<text x="1.524" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">TXO</text>
+<text x="4.064" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">RXI</text>
+<text x="6.604" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">VCC</text>
+<text x="-1.016" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">DTR</text>
+<text x="11.684" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">GND</text>
+<text x="9.144" y="2.921" size="0.8128" layer="21" font="vector" ratio="15">CTS</text>
+</package>
 </packages>
 <symbols>
 <symbol name="CONN_06">
@@ -20138,6 +20194,19 @@ For reference (or to suit your programming needs) check out these designs:
 <technology name=""/>
 </technologies>
 </device>
+<device name="VERT_SMT" package="6_PIN_SERIAL_TARGET_SIDE_VERT_SMT">
+<connects>
+<connect gate="G$1" pin="CTS" pad="5 5-2"/>
+<connect gate="G$1" pin="DTR" pad="1 1-2"/>
+<connect gate="G$1" pin="GND" pad="6 6-2"/>
+<connect gate="G$1" pin="RXI" pad="3 3-2"/>
+<connect gate="G$1" pin="TXO" pad="2 2-2"/>
+<connect gate="G$1" pin="VCC" pad="4 4-2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
 </devices>
 </deviceset>
 <deviceset name="QWIIC_CONNECTOR" prefix="J" uservalue="yes">
@@ -20305,12 +20374,12 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="GND3" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY8" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND4" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="J1" library="SparkFun-Connectors" deviceset="6_PIN_SERIAL_TARGET" device="SILK"/>
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="J8" library="SparkFun-Connectors" deviceset="QWIIC_CONNECTOR" device="" value="Qwiic (vertical)"/>
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="U2" library="SparkFun-Connectors" deviceset="MICRO:BIT*?" device="_RA" value="micro:bit"/>
+<part name="J10" library="SparkFun-Connectors" deviceset="6_PIN_SERIAL_TARGET" device="VERT_SMT"/>
 </parts>
 <sheets>
 <sheet>
@@ -20769,10 +20838,6 @@ intermitenly from a digital I/O pin. </text>
 <instance part="GND3" gate="1" x="86.36" y="17.78" smashed="yes">
 <attribute name="VALUE" x="86.36" y="17.526" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="J1" gate="G$1" x="17.78" y="40.64" smashed="yes">
-<attribute name="VALUE" x="10.16" y="30.734" size="1.778" layer="96" font="vector"/>
-<attribute name="NAME" x="10.16" y="51.308" size="1.778" layer="95" font="vector"/>
-</instance>
 <instance part="SUPPLY1" gate="G$1" x="144.78" y="119.38" smashed="yes">
 <attribute name="VALUE" x="144.78" y="122.174" size="1.778" layer="96" align="bottom-center"/>
 </instance>
@@ -20785,6 +20850,10 @@ intermitenly from a digital I/O pin. </text>
 </instance>
 <instance part="GND1" gate="1" x="127" y="17.78" smashed="yes">
 <attribute name="VALUE" x="127" y="17.526" size="1.778" layer="96" align="top-center"/>
+</instance>
+<instance part="J10" gate="G$1" x="17.78" y="40.64" smashed="yes">
+<attribute name="VALUE" x="10.16" y="30.734" size="1.778" layer="96" font="vector"/>
+<attribute name="NAME" x="10.16" y="51.308" size="1.778" layer="95" font="vector"/>
 </instance>
 </instances>
 <busses>
@@ -20870,14 +20939,14 @@ intermitenly from a digital I/O pin. </text>
 <pinref part="GND3" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="GND"/>
 <wire x1="22.86" y1="48.26" x2="27.94" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="48.26" x2="27.94" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
-<pinref part="J1" gate="G$1" pin="CTS"/>
 <wire x1="27.94" y1="45.72" x2="27.94" y2="27.94" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="45.72" x2="27.94" y2="45.72" width="0.1524" layer="91"/>
 <junction x="27.94" y="45.72"/>
+<pinref part="J10" gate="G$1" pin="CTS"/>
+<pinref part="J10" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <wire x1="121.92" y1="33.02" x2="127" y2="33.02" width="0.1524" layer="91"/>
@@ -20950,10 +21019,10 @@ intermitenly from a digital I/O pin. </text>
 <pinref part="SUPPLY12" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="VCC"/>
 <wire x1="22.86" y1="43.18" x2="33.02" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="SUPPLY11" gate="G$1" pin="3.3V"/>
 <wire x1="33.02" y1="43.18" x2="33.02" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="J10" gate="G$1" pin="VCC"/>
 </segment>
 <segment>
 <pinref part="SUPPLY1" gate="G$1" pin="3.3V"/>
@@ -21145,16 +21214,16 @@ intermitenly from a digital I/O pin. </text>
 </net>
 <net name="TXO" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="TXO"/>
 <wire x1="22.86" y1="40.64" x2="35.56" y2="40.64" width="0.1524" layer="91"/>
 <label x="35.56" y="40.64" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="J10" gate="G$1" pin="TXO"/>
 </segment>
 </net>
 <net name="RXI" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="RXI"/>
 <wire x1="22.86" y1="38.1" x2="35.56" y2="38.1" width="0.1524" layer="91"/>
 <label x="35.56" y="38.1" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="J10" gate="G$1" pin="RXI"/>
 </segment>
 </net>
 </nets>
