@@ -9,34 +9,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -45,8 +45,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -54,19 +54,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="no" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -20146,6 +20146,76 @@ Package for devices meant to mate to an FTDI connector.
 <rectangle x1="15.0114" y1="-1.0668" x2="15.0876" y2="-1.0414" layer="21" rot="R90"/>
 <rectangle x1="14.986" y1="-1.143" x2="15.1638" y2="-1.0668" layer="21" rot="R90"/>
 </package>
+<package name="PAD.02X.02">
+<description>&lt;h3&gt;Electrically Conductive Pad 0.02" Square&lt;/h3&gt;
+Used as a test point connection for pogo pins or other debugging tools. 
+&lt;p&gt;Specifications:
+&lt;li&gt;Area: 0.02" x 0.02"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="P$1" x="0" y="0" dx="0.508" dy="0.508" layer="1"/>
+</package>
+<package name="PAD.03X.03">
+<description>&lt;h3&gt;Electrically Conductive Pad 0.03" Circle&lt;/h3&gt;
+Used as a test point connection for pogo pins or other debugging tools. 
+&lt;p&gt;Specifications:
+&lt;li&gt;Area: 0.03" x 0.03"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="P$1" x="0" y="0" dx="0.762" dy="0.762" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="PAD.03X.05">
+<description>&lt;h3&gt;Electrically Conductive Pad 0.05" Circle&lt;/h3&gt;
+Used as a test point connection for pogo pins or other debugging tools. 
+&lt;p&gt;Specifications:
+&lt;li&gt;Area: 0.05" x 0.05"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="P$1" x="0" y="0" dx="1.27" dy="1.27" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="PAD.03X.04">
+<description>&lt;h3&gt;Electrically Conductive Pad 0.04" Circle&lt;/h3&gt;
+Used as a test point connection for pogo pins or other debugging tools. 
+&lt;p&gt;Specifications:
+&lt;li&gt;Area: 0.04" x 0.04"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="P$1" x="0" y="0" dx="1.016" dy="1.016" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="TP_15TH">
+<description>&lt;h3&gt;Electrically Conductive Via 0.015" Drill&lt;/h3&gt;
+Used as a test point connection for pogo pins or other debugging tools. 
+&lt;p&gt;Specifications:
+&lt;li&gt;Area:0.015"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<pad name="P$1" x="0" y="0" drill="0.381" diameter="0.6096" stop="no"/>
+<circle x="0" y="0" radius="0.381" width="0" layer="30"/>
+</package>
+<package name="1X01_NO_SILK">
+<description>&lt;h3&gt;Plated Through Hole - No Silk Outline&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:1&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_01&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<pad name="1" x="0" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
+<text x="-1.27" y="1.143" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.27" y="-1.778" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
+</package>
 </packages>
 <symbols>
 <symbol name="CONN_06">
@@ -20305,6 +20375,13 @@ It is used to mate with our FTDI Basic serial programmers using the Arduino IDE.
 <text x="-15.24" y="15.24" size="1.778" layer="97" ratio="10" rot="R180" align="center-right">GPIO</text>
 <text x="-15.24" y="2.54" size="1.778" layer="97" ratio="10" rot="R180" align="center-right">GPIO</text>
 <text x="-17.78" y="30.48" size="1.778" layer="95" align="top-left">&gt;NAME</text>
+</symbol>
+<symbol name="TEST-POINT">
+<wire x1="2.54" y1="0" x2="0" y2="0" width="0.1524" layer="94"/>
+<wire x1="3.302" y1="0.762" x2="3.302" y2="-0.762" width="0.1524" layer="94" curve="180"/>
+<text x="-2.54" y="2.54" size="1.778" layer="95" font="vector">&gt;Name</text>
+<text x="-2.54" y="-2.54" size="1.778" layer="96" font="vector">&gt;Value</text>
+<pin name="1" x="0" y="0" visible="off" length="point" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -21196,6 +21273,68 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </device>
 </devices>
 </deviceset>
+<deviceset name="TEST-POINT" prefix="TP">
+<description>&lt;h3&gt;SparkFun Test Points&lt;/h3&gt;
+&lt;p&gt;Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/13284”&gt;SparkFun LSM9DS1 Breakout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/13714”&gt;SparkFun PSOC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/13879"&gt;SparkFun Load Cell Amplifier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<gates>
+<gate name="G$1" symbol="TEST-POINT" x="0" y="0"/>
+</gates>
+<devices>
+<device name="2" package="PAD.02X.02">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3" package="PAD.03X.03">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3X5" package="PAD.03X.05">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3X4" package="PAD.03X.04">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="TP_15TH_THRU" package="TP_15TH">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="POGO_PTH" package="1X01_NO_SILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -21275,13 +21414,25 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="U2" library="SparkFun-Connectors" deviceset="MICRO:BIT*?" device="_RA" value="micro:bit"/>
 <part name="J10" library="SparkFun-Connectors" deviceset="6_PIN_SERIAL_TARGET" device="VERT_SMT" value="SMD"/>
+<part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="SUPPLY5" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
+<part name="GND17" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
+<part name="TP2" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP3" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP4" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP5" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP8" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP9" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP13" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP14" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
+<part name="TP19" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU" value=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v11</text>
 <text x="5.08" y="124.46" size="2.54" layer="97" font="vector">Micro:bit Connector</text>
-<text x="109.22" y="60.96" size="1.778" layer="97">20
+<text x="76.2" y="66.04" size="1.778" layer="97" font="vector">20
 19
 16
 15
@@ -21300,7 +21451,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 2
 1
 0</text>
-<text x="116.84" y="60.96" size="1.778" layer="97">SDA
+<text x="83.82" y="66.04" size="1.778" layer="97" font="vector">SDA
 SCL
 GPIO
 MOSI
@@ -21319,46 +21470,47 @@ LED COL 1
 GPIO/AIN
 GPIO/AIN
 GPIO/AIN</text>
-<text x="109.22" y="111.76" size="1.778" layer="97">PIN</text>
-<text x="116.84" y="111.76" size="1.778" layer="97">FUNCTION</text>
-<wire x1="106.68" y1="114.3" x2="106.68" y2="111.252" width="0.1524" layer="97"/>
-<wire x1="106.68" y1="111.252" x2="106.68" y2="59.944" width="0.1524" layer="97"/>
-<wire x1="106.68" y1="59.944" x2="114.554" y2="59.944" width="0.1524" layer="97"/>
-<wire x1="114.554" y1="59.944" x2="132.334" y2="59.944" width="0.1524" layer="97"/>
-<wire x1="132.334" y1="59.944" x2="132.08" y2="111.252" width="0.1524" layer="97"/>
-<wire x1="132.08" y1="111.252" x2="132.08" y2="114.3" width="0.1524" layer="97"/>
-<wire x1="132.08" y1="114.3" x2="114.3" y2="114.3" width="0.1524" layer="97"/>
-<wire x1="114.3" y1="114.3" x2="106.68" y2="114.3" width="0.1524" layer="97"/>
-<wire x1="106.68" y1="111.252" x2="132.08" y2="111.252" width="0.1524" layer="97"/>
-<wire x1="114.3" y1="114.3" x2="114.554" y2="59.944" width="0.1524" layer="97"/>
-<text x="134.62" y="60.96" size="1.27" layer="97">SOIL MOISTURE SENSOR DATA</text>
-<text x="134.62" y="109.22" size="1.27" layer="97">BME280 SDA</text>
-<text x="134.62" y="106.68" size="1.27" layer="97">BME280 SCL</text>
-<text x="134.62" y="104.14" size="1.27" layer="97">SOIL MOISTURE SENSOR POWER</text>
-<text x="134.62" y="93.98" size="1.27" layer="97">TEMPERATURE DATA</text>
-<text x="134.62" y="63.5" size="1.27" layer="97">WIND DIRECTION</text>
-<text x="134.62" y="82.804" size="1.27" layer="97">WIND SPEED</text>
-<text x="134.62" y="66.548" size="1.27" layer="97">RAIN</text>
-<text x="134.62" y="101.6" size="1.27" layer="97">TXO</text>
-<text x="134.62" y="99.06" size="1.27" layer="97">RXI</text>
+<text x="76.2" y="116.84" size="1.778" layer="97" font="vector">PIN</text>
+<text x="83.82" y="116.84" size="1.778" layer="97" font="vector">FUNCTION</text>
+<wire x1="73.66" y1="119.38" x2="73.66" y2="116.332" width="0.1524" layer="97"/>
+<wire x1="73.66" y1="116.332" x2="73.66" y2="65.024" width="0.1524" layer="97"/>
+<wire x1="73.66" y1="65.024" x2="81.534" y2="65.024" width="0.1524" layer="97"/>
+<wire x1="81.534" y1="65.024" x2="99.314" y2="65.024" width="0.1524" layer="97"/>
+<wire x1="99.314" y1="65.024" x2="99.06" y2="116.332" width="0.1524" layer="97"/>
+<wire x1="99.06" y1="116.332" x2="99.06" y2="119.38" width="0.1524" layer="97"/>
+<wire x1="99.06" y1="119.38" x2="81.28" y2="119.38" width="0.1524" layer="97"/>
+<wire x1="81.28" y1="119.38" x2="73.66" y2="119.38" width="0.1524" layer="97"/>
+<wire x1="73.66" y1="116.332" x2="99.06" y2="116.332" width="0.1524" layer="97"/>
+<wire x1="81.28" y1="119.38" x2="81.534" y2="65.024" width="0.1524" layer="97"/>
+<text x="101.6" y="66.04" size="1.27" layer="97" font="vector">SOIL MOISTURE SENSOR DATA</text>
+<text x="101.6" y="114.3" size="1.27" layer="97" font="vector">BME280 SDA</text>
+<text x="101.6" y="111.76" size="1.27" layer="97" font="vector">BME280 SCL</text>
+<text x="101.6" y="109.22" size="1.27" layer="97" font="vector">SOIL MOISTURE SENSOR POWER</text>
+<text x="101.6" y="99.06" size="1.27" layer="97" font="vector">TEMPERATURE DATA</text>
+<text x="101.6" y="68.58" size="1.27" layer="97" font="vector">WIND DIRECTION</text>
+<text x="101.6" y="87.884" size="1.27" layer="97" font="vector">WIND SPEED</text>
+<text x="101.6" y="71.628" size="1.27" layer="97" font="vector">RAIN</text>
+<text x="101.6" y="106.68" size="1.27" layer="97" font="vector">TXO</text>
+<text x="101.6" y="104.14" size="1.27" layer="97" font="vector">RXI</text>
 <text x="166.116" y="11.938" size="1.27" layer="94" font="vector">Mary West, Based on the Weather Shield Design by Nathan Seidle</text>
-<text x="195.58" y="137.16" size="2.54" layer="97">I2C Address: 0x77</text>
-<wire x1="175.26" y1="134.62" x2="175.26" y2="38.1" width="0.1524" layer="97" style="longdash"/>
+<text x="195.58" y="137.16" size="2.54" layer="97" font="vector">I2C Address: 0x77</text>
+<wire x1="175.26" y1="134.62" x2="175.26" y2="63.5" width="0.1524" layer="97" style="longdash"/>
 <text x="167.64" y="177.8" size="2.54" layer="97" font="vector">Sensing</text>
+<wire x1="175.26" y1="63.5" x2="175.26" y2="38.1" width="0.1524" layer="97" style="longdash"/>
 <wire x1="0" y1="38.1" x2="58.42" y2="38.1" width="0.1524" layer="97" style="longdash"/>
-<text x="10.16" y="154.94" size="2.54" layer="97" rot="R90">RAIN</text>
-<text x="77.47" y="156.718" size="2.54" layer="97" rot="R90">WIND</text>
+<text x="10.16" y="154.94" size="2.54" layer="97" font="vector" rot="R90">RAIN</text>
+<text x="77.47" y="156.718" size="2.54" layer="97" font="vector" rot="R90">WIND</text>
 <text x="5.08" y="180.34" size="2.54" layer="97" font="vector">Optional Wind &amp; Rain Sensors</text>
 <wire x1="58.42" y1="38.1" x2="175.26" y2="38.1" width="0.1524" layer="97" style="longdash"/>
 <wire x1="175.26" y1="134.62" x2="248.92" y2="134.62" width="0.1524" layer="97" style="longdash"/>
 <text x="178.816" y="128.524" size="2.54" layer="97" font="vector" align="top-left">Optional External 
 Temperature and 
 Soil Moisture Sensing</text>
-<text x="209.042" y="42.672" size="1.778" layer="97">SOIL_PWR: The soil moisture
- sensor should not be "turned on" 
+<text x="208.026" y="42.926" size="1.27" layer="97" font="vector">SOIL_PWR: The soil moisture
+sensor should not be "turned on" 
 at all times, this causes quick
- corrosion of the metal on the sensor.
- The power should be provided 
+corrosion of the metal on the sensor.
+The power should be provided 
 intermitenly from a digital I/O pin. </text>
 <text x="205.74" y="88.9" size="2.54" layer="97" font="vector" rot="R90">EXT TEMP</text>
 <text x="182.88" y="45.72" size="2.54" layer="97" font="vector" rot="R90">EXT SOIL MOIST</text>
@@ -21371,6 +21523,10 @@ intermitenly from a digital I/O pin. </text>
 <wire x1="157.48" y1="185.42" x2="157.48" y2="134.62" width="0.1524" layer="97" style="longdash"/>
 <text x="173.99" y="7.62" size="1.27" layer="94" font="vector">Pete Lewis</text>
 <text x="148.844" y="7.366" size="2.54" layer="94" font="vector">Revised By:</text>
+<text x="5.08" y="53.34" size="1.27" layer="97" font="vector">VCC RANGE: 3.3V Only to Micro:bit</text>
+<text x="142.24" y="124.46" size="2.54" layer="97" font="vector">Testpoints</text>
+<wire x1="137.16" y1="63.5" x2="175.26" y2="63.5" width="0.1524" layer="97" style="longdash"/>
+<wire x1="137.16" y1="63.5" x2="137.16" y2="134.62" width="0.1524" layer="97" style="longdash"/>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
@@ -21384,20 +21540,20 @@ intermitenly from a digital I/O pin. </text>
 <instance part="H1" gate="G$1" x="233.68" y="33.02" smashed="yes"/>
 <instance part="H2" gate="G$1" x="233.68" y="27.94" smashed="yes"/>
 <instance part="LOGO3" gate="G$1" x="160.02" y="50.8" smashed="yes"/>
-<instance part="LOGO2" gate="G$1" x="53.34" y="38.1" smashed="yes"/>
+<instance part="LOGO2" gate="G$1" x="91.44" y="35.56" smashed="yes"/>
 <instance part="FD3" gate="G$1" x="238.76" y="33.02" smashed="yes"/>
 <instance part="FD4" gate="G$1" x="238.76" y="27.94" smashed="yes"/>
 <instance part="H3" gate="G$1" x="228.6" y="33.02" smashed="yes"/>
 <instance part="H4" gate="G$1" x="228.6" y="27.94" smashed="yes"/>
-<instance part="SUPPLY8" gate="G$1" x="66.04" y="116.84" smashed="yes">
-<attribute name="VALUE" x="66.04" y="119.634" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY8" gate="G$1" x="48.26" y="116.84" smashed="yes">
+<attribute name="VALUE" x="48.26" y="119.634" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND4" gate="1" x="81.28" y="104.14" smashed="yes">
-<attribute name="VALUE" x="81.28" y="103.886" size="1.778" layer="96" align="top-center"/>
+<instance part="GND4" gate="1" x="63.5" y="104.14" smashed="yes">
+<attribute name="VALUE" x="63.5" y="103.886" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="U2" gate="G$1" x="40.64" y="88.9" smashed="yes">
-<attribute name="VALUE" x="22.86" y="60.198" size="1.778" layer="96" align="top-left"/>
-<attribute name="NAME" x="22.86" y="119.38" size="1.778" layer="95" align="top-left"/>
+<instance part="U2" gate="G$1" x="22.86" y="88.9" smashed="yes">
+<attribute name="VALUE" x="5.08" y="60.198" size="1.778" layer="96" align="top-left"/>
+<attribute name="NAME" x="5.08" y="119.38" size="1.778" layer="95" align="top-left"/>
 </instance>
 <instance part="U1" gate="U1" x="208.28" y="157.48" smashed="yes">
 <attribute name="NAME" x="198.12" y="165.354" size="1.778" layer="95"/>
@@ -21585,14 +21741,50 @@ intermitenly from a digital I/O pin. </text>
 <attribute name="VALUE" x="10.16" y="5.334" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="10.16" y="25.908" size="1.778" layer="95" font="vector"/>
 </instance>
+<instance part="TP1" gate="G$1" x="149.86" y="106.68" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="109.22" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="SUPPLY5" gate="G$1" x="152.4" y="109.22" smashed="yes">
+<attribute name="VALUE" x="152.4" y="112.014" size="1.778" layer="96" align="bottom-center"/>
+</instance>
+<instance part="GND17" gate="1" x="167.64" y="96.52" smashed="yes">
+<attribute name="VALUE" x="167.64" y="96.266" size="1.778" layer="96" align="top-center"/>
+</instance>
+<instance part="TP2" gate="G$1" x="149.86" y="104.14" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="106.68" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP3" gate="G$1" x="149.86" y="101.6" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="104.14" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP4" gate="G$1" x="149.86" y="99.06" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="101.6" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP5" gate="G$1" x="149.86" y="96.52" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="99.06" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP8" gate="G$1" x="149.86" y="93.98" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="96.52" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP9" gate="G$1" x="149.86" y="91.44" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="93.98" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP13" gate="G$1" x="149.86" y="88.9" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="91.44" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP14" gate="G$1" x="149.86" y="86.36" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="88.9" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="TP19" gate="G$1" x="149.86" y="83.82" smashed="yes" rot="R180">
+<attribute name="VALUE" x="152.4" y="86.36" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="SDA" class="0">
 <segment>
-<wire x1="63.5" y1="109.22" x2="66.04" y2="109.22" width="0.1524" layer="91"/>
-<label x="66.04" y="109.22" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="109.22" x2="48.26" y2="109.22" width="0.1524" layer="91"/>
+<label x="48.26" y="109.22" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P20"/>
 </segment>
 <segment>
@@ -21610,11 +21802,16 @@ intermitenly from a digital I/O pin. </text>
 <label x="129.54" y="15.24" size="1.27" layer="95" xref="yes"/>
 <pinref part="J8" gate="G$1" pin="3"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="101.6" x2="152.4" y2="101.6" width="0.1524" layer="91"/>
+<label x="152.4" y="101.6" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP3" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="SCL" class="0">
 <segment>
-<wire x1="63.5" y1="106.68" x2="66.04" y2="106.68" width="0.1524" layer="91"/>
-<label x="66.04" y="106.68" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="106.68" x2="48.26" y2="106.68" width="0.1524" layer="91"/>
+<label x="48.26" y="106.68" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P19"/>
 </segment>
 <segment>
@@ -21632,11 +21829,16 @@ intermitenly from a digital I/O pin. </text>
 <label x="129.54" y="12.7" size="1.27" layer="95" xref="yes"/>
 <pinref part="J8" gate="G$1" pin="4"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="99.06" x2="152.4" y2="99.06" width="0.1524" layer="91"/>
+<label x="152.4" y="99.06" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP4" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="SOIL_PWR" class="0">
 <segment>
-<wire x1="63.5" y1="104.14" x2="66.04" y2="104.14" width="0.1524" layer="91"/>
-<label x="66.04" y="104.14" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="104.14" x2="48.26" y2="104.14" width="0.1524" layer="91"/>
+<label x="48.26" y="104.14" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P16"/>
 </segment>
 <segment>
@@ -21649,11 +21851,16 @@ intermitenly from a digital I/O pin. </text>
 <label x="205.74" y="68.58" size="1.27" layer="95" xref="yes"/>
 <junction x="200.66" y="68.58"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="96.52" x2="152.4" y2="96.52" width="0.1524" layer="91"/>
+<label x="152.4" y="96.52" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP5" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="TXO" class="0">
 <segment>
-<wire x1="63.5" y1="101.6" x2="66.04" y2="101.6" width="0.1524" layer="91"/>
-<label x="66.04" y="101.6" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="101.6" x2="48.26" y2="101.6" width="0.1524" layer="91"/>
+<label x="48.26" y="101.6" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P15"/>
 </segment>
 <segment>
@@ -21664,8 +21871,8 @@ intermitenly from a digital I/O pin. </text>
 </net>
 <net name="RXI" class="0">
 <segment>
-<wire x1="63.5" y1="99.06" x2="66.04" y2="99.06" width="0.1524" layer="91"/>
-<label x="66.04" y="99.06" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="99.06" x2="48.26" y2="99.06" width="0.1524" layer="91"/>
+<label x="48.26" y="99.06" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P14"/>
 </segment>
 <segment>
@@ -21676,8 +21883,8 @@ intermitenly from a digital I/O pin. </text>
 </net>
 <net name="RAIN" class="0">
 <segment>
-<wire x1="63.5" y1="93.98" x2="66.04" y2="93.98" width="0.1524" layer="91"/>
-<label x="66.04" y="93.98" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="93.98" x2="48.26" y2="93.98" width="0.1524" layer="91"/>
+<label x="48.26" y="93.98" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P2"/>
 </segment>
 <segment>
@@ -21693,11 +21900,16 @@ intermitenly from a digital I/O pin. </text>
 <junction x="38.1" y="160.02"/>
 <junction x="40.64" y="160.02"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="93.98" x2="152.4" y2="93.98" width="0.1524" layer="91"/>
+<label x="152.4" y="93.98" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP8" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="TEMP_DAT" class="0">
 <segment>
-<wire x1="63.5" y1="91.44" x2="66.04" y2="91.44" width="0.1524" layer="91"/>
-<label x="66.04" y="91.44" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="91.44" x2="48.26" y2="91.44" width="0.1524" layer="91"/>
+<label x="48.26" y="91.44" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P12"/>
 </segment>
 <segment>
@@ -21714,32 +21926,16 @@ intermitenly from a digital I/O pin. </text>
 <wire x1="231.14" y1="101.6" x2="231.14" y2="99.06" width="0.1524" layer="91"/>
 <junction x="231.14" y="99.06"/>
 </segment>
-</net>
-<net name="11" class="0">
 <segment>
-<wire x1="63.5" y1="88.9" x2="66.04" y2="88.9" width="0.1524" layer="91"/>
-<label x="66.04" y="88.9" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P11"/>
-</segment>
-</net>
-<net name="10" class="0">
-<segment>
-<wire x1="63.5" y1="86.36" x2="66.04" y2="86.36" width="0.1524" layer="91"/>
-<label x="66.04" y="86.36" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P10"/>
-</segment>
-</net>
-<net name="9" class="0">
-<segment>
-<wire x1="63.5" y1="83.82" x2="66.04" y2="83.82" width="0.1524" layer="91"/>
-<label x="66.04" y="83.82" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P9"/>
+<wire x1="149.86" y1="91.44" x2="152.4" y2="91.44" width="0.1524" layer="91"/>
+<label x="152.4" y="91.44" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="WSPEED" class="0">
 <segment>
-<wire x1="63.5" y1="81.28" x2="66.04" y2="81.28" width="0.1524" layer="91"/>
-<label x="66.04" y="81.28" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="81.28" x2="48.26" y2="81.28" width="0.1524" layer="91"/>
+<label x="48.26" y="81.28" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P8"/>
 </segment>
 <segment>
@@ -21755,11 +21951,16 @@ intermitenly from a digital I/O pin. </text>
 <junction x="128.27" y="161.798"/>
 <label x="133.35" y="161.798" size="1.27" layer="95" xref="yes"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="88.9" x2="152.4" y2="88.9" width="0.1524" layer="91"/>
+<label x="152.4" y="88.9" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP13" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="WDIR" class="0">
 <segment>
-<wire x1="63.5" y1="78.74" x2="66.04" y2="78.74" width="0.1524" layer="91"/>
-<label x="66.04" y="78.74" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="78.74" x2="48.26" y2="78.74" width="0.1524" layer="91"/>
+<label x="48.26" y="78.74" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P1"/>
 </segment>
 <segment>
@@ -21779,39 +21980,16 @@ intermitenly from a digital I/O pin. </text>
 <wire x1="130.81" y1="166.878" x2="130.81" y2="164.338" width="0.1524" layer="91"/>
 <junction x="130.81" y="164.338"/>
 </segment>
-</net>
-<net name="7" class="0">
 <segment>
-<wire x1="63.5" y1="76.2" x2="66.04" y2="76.2" width="0.1524" layer="91"/>
-<label x="66.04" y="76.2" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P7"/>
-</segment>
-</net>
-<net name="6" class="0">
-<segment>
-<wire x1="63.5" y1="73.66" x2="66.04" y2="73.66" width="0.1524" layer="91"/>
-<label x="66.04" y="73.66" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P6"/>
-</segment>
-</net>
-<net name="5" class="0">
-<segment>
-<wire x1="63.5" y1="71.12" x2="66.04" y2="71.12" width="0.1524" layer="91"/>
-<label x="66.04" y="71.12" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P5"/>
-</segment>
-</net>
-<net name="4" class="0">
-<segment>
-<wire x1="63.5" y1="68.58" x2="66.04" y2="68.58" width="0.1524" layer="91"/>
-<label x="66.04" y="68.58" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P4"/>
+<wire x1="149.86" y1="86.36" x2="152.4" y2="86.36" width="0.1524" layer="91"/>
+<label x="152.4" y="86.36" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP14" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SOIL_DAT" class="0">
 <segment>
-<wire x1="63.5" y1="66.04" x2="66.04" y2="66.04" width="0.1524" layer="91"/>
-<label x="66.04" y="66.04" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="45.72" y1="66.04" x2="48.26" y2="66.04" width="0.1524" layer="91"/>
+<label x="48.26" y="66.04" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="P0"/>
 </segment>
 <segment>
@@ -21824,18 +22002,16 @@ intermitenly from a digital I/O pin. </text>
 <junction x="198.12" y="63.5"/>
 <label x="205.74" y="63.5" size="1.27" layer="95" xref="yes"/>
 </segment>
-</net>
-<net name="3" class="0">
 <segment>
-<wire x1="63.5" y1="63.5" x2="66.04" y2="63.5" width="0.1524" layer="91"/>
-<label x="66.04" y="63.5" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P3"/>
+<wire x1="149.86" y1="83.82" x2="152.4" y2="83.82" width="0.1524" layer="91"/>
+<label x="152.4" y="83.82" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="TP19" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="3.3V" class="0">
 <segment>
-<wire x1="63.5" y1="114.3" x2="66.04" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="114.3" x2="66.04" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="114.3" x2="48.26" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="114.3" x2="48.26" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="SUPPLY8" gate="G$1" pin="3.3V"/>
 <pinref part="U2" gate="G$1" pin="3.3V"/>
 </segment>
@@ -21918,11 +22094,17 @@ intermitenly from a digital I/O pin. </text>
 <pinref part="SUPPLY7" gate="G$1" pin="3.3V"/>
 <pinref part="J8" gate="G$1" pin="2"/>
 </segment>
+<segment>
+<wire x1="149.86" y1="106.68" x2="152.4" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="106.68" x2="152.4" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="SUPPLY5" gate="G$1" pin="3.3V"/>
+<pinref part="TP1" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<wire x1="63.5" y1="111.76" x2="81.28" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="81.28" y1="111.76" x2="81.28" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="111.76" x2="63.5" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="111.76" x2="63.5" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 <pinref part="U2" gate="G$1" pin="GND"/>
 </segment>
@@ -22020,12 +22202,11 @@ intermitenly from a digital I/O pin. </text>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="J8" gate="G$1" pin="1"/>
 </segment>
-</net>
-<net name="N$3" class="0">
 <segment>
-<wire x1="63.5" y1="96.52" x2="66.04" y2="96.52" width="0.1524" layer="91"/>
-<label x="66.04" y="96.52" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="P13"/>
+<wire x1="149.86" y1="104.14" x2="167.64" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="104.14" x2="167.64" y2="99.06" width="0.1524" layer="91"/>
+<pinref part="GND17" gate="1" pin="GND"/>
+<pinref part="TP2" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$2" class="0">
