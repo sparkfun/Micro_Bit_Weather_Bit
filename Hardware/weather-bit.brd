@@ -163,7 +163,7 @@
 <board>
 <plain>
 <text x="31.75" y="-11.43" size="1.778" layer="51" font="vector" ratio="9">Mary West, based on Weather Shield Design by Nathan Seidle </text>
-<text x="67.16395" y="18.07845" size="1.778" layer="16" font="vector" ratio="15" rot="SMR270" align="center">v11</text>
+<text x="67.16395" y="18.07845" size="1.778" layer="16" font="vector" ratio="15" rot="SMR270" align="center">v12</text>
 <text x="30.63875" y="81.5975" size="1.778" layer="47" font="vector" ratio="15">* All dimensions
   are in inches</text>
 <wire x1="2.54" y1="58.42" x2="66.04" y2="58.42" width="0.2032" layer="20"/>
@@ -10539,6 +10539,11 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="31.115" y1="48.895" x2="31.75" y2="49.53" width="0.2032" layer="1"/>
 <wire x1="42.4815" y1="24.765" x2="45.085" y2="22.1615" width="0.254" layer="1"/>
 <wire x1="45.085" y1="22.1615" x2="45.085" y2="21.6535" width="0.254" layer="1"/>
+<contactref element="U2" pad="P$23"/>
+<wire x1="37.465" y1="45.92" x2="37.465" y2="47.625" width="0.2032" layer="1"/>
+<wire x1="34.6964" y1="50.3936" x2="32.6136" y2="50.3936" width="0.2032" layer="1"/>
+<wire x1="32.6136" y1="50.3936" x2="31.75" y2="49.53" width="0.2032" layer="1"/>
+<wire x1="37.465" y1="47.625" x2="34.6964" y2="50.3936" width="0.2032" layer="1"/>
 </signal>
 <signal name="SOIL_PWR">
 <contactref element="J5" pad="1"/>
