@@ -18,6 +18,7 @@ Documentation
 --------------
 * **[Library](https://github.com/sparkfun/pxt-weather-bit)** - PXT weather:bit firmware
 * **[micro:Climate Kit Experiment Guide](https://learn.sparkfun.com/tutorials/microclimate-kit-experiment-guide)** - Experiment guide using the weather:bit carrier board.
+* **[Wireless Remote Weather Station with micro:bit](https://learn.sparkfun.com/tutorials/wireless-remote-weather-station-with-microbit/)** - Additional experiments for transmitting weather data wirelessly.
 
 License Information
 -------------------
