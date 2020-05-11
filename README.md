@@ -1,7 +1,7 @@
 SparkFun weather:bit - micro:bit Carrier Board (Qwiic)
 ========================================
 
-![SparkFun weather:bit](https://cdn.sparkfun.com//assets/parts/1/4/4/6/7/15837-SparkFun_weather-bit_-_micro-bit_Carrier_Board__Qwiic_-01.jpg)
+[![SparkFun weather:bit](https://cdn.sparkfun.com//assets/parts/1/4/4/6/7/15837-SparkFun_weather-bit_-_micro-bit_Carrier_Board__Qwiic_-01.jpg)](https://www.sparkfun.com/products/15837)
 
 [*SparkFun weather:bit (DEV-15837)*](https://www.sparkfun.com/products/15837)
 
